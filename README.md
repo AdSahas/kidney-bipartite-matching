@@ -24,8 +24,8 @@ Compatibility is determined by four medical constraints:
 
 ## Algorithms
 
-| Algorithm | Objective | Complexity |
-|---|---|---|
+| Algorithm | Objective |
+|---|---|
 | Greedy Matching | Baseline — fast, locally optimal |
 | Kuhn's Algorithm | Maximum cardinality matching |
 | Jonker-Volgenant | Minimum cost optimal assignment |
