@@ -41,8 +41,7 @@ kidney-bipartite-matching/
 │   ├── attributes.py        # Blood type, Rh, HLA, PRA generation
 │   ├── compatibility.py     # Compatibility checks and cost functions
 │   ├── builder.py           # Graph construction + matching algorithms
-│   ├── experiment.py        # All three experiments + plotting
-│   └── analysis.py          # Result analysis and curve fitting
+│   └── experiment.py        # All three experiments + plotting
 │
 └── README.md
 ```
