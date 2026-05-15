@@ -1,6 +1,6 @@
-# kidney-bipartite-matching
+### Comparitive Analysis of Bipartite Graph Algorithms For Efficient Kidney Donor Allocations
 
-A comparative empirical analysis of bipartite graph matching algorithms applied to kidney transplant donor-recipient allocation. Implements and evaluates three algorithms of increasing sophistication — Greedy Matching, Kuhn's Algorithm, and the Jonker-Volgenant Algorithm — on randomly generated compatibility graphs modeled after US/European kidney transplant demographics.
+A comparative empirical analysis of bipartite graph matching algorithms applied to kidney transplant donor-recipient allocation. Implements and evaluates three algorithms of increasing sophistication — Greedy Matching (baseline), Kuhn's Algorithm, and the Jonker-Volgenant Algorithm — on randomly generated compatibility graphs modeled after US/European kidney transplant demographics.
 
 **Course project — Data Structures and Algorithms, Rutgers – New Brunswick**  
 *Advaith "Ad" Subramanian Sahasranamam*
